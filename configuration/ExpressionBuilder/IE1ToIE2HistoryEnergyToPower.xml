@@ -1,0 +1,9 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<expression:EMFExpression xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:expression="http:///expression.ecore" id="null=>out1=>timestamp" expression="Integer.toString(row3.year) + &quot;-&quot; +  Integer.toString(row3.month) + &quot;-&quot; + Integer.toString(row3.day) + &quot; &quot; + Integer.toString(row3.hour) + &quot;:00:00&quot;">
+  <variables name="row3.drain" value="null" talendType="id_String"/>
+  <variables name="row3.value" value="0" talendType="id_Float"/>
+  <variables name="row3.hour" value="0" talendType="id_Integer"/>
+  <variables name="row3.day" value="0" talendType="id_Integer"/>
+  <variables name="row3.month" value="0" talendType="id_Integer"/>
+  <variables name="row3.year" value="0" talendType="id_Integer"/>
+</expression:EMFExpression>

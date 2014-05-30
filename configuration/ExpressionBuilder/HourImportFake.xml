@@ -1,0 +1,9 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:expression="http:///expression.ecore">
+  <expression:EMFExpression id="null=>out1=>newColumn" expression="CommonOperation.calStartTime(context.date_time);">
+    <variables name="row2.newColumn" value="null" talendType="id_String" nullable="true"/>
+  </expression:EMFExpression>
+  <expression:EMFExpression id="null=>copyOfout1=>newColumn" expression="&#xD;&#xA;CommonOperation.addNext(context.date_time); ">
+    <variables name="row2.newColumn" value="null" talendType="id_String" nullable="true"/>
+  </expression:EMFExpression>
+</xmi:XMI>

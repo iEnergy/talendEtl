@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" confirmationNeeded="false" name="Jeerp">
+  <contextParameter comment="" name="Postgres_Port" prompt="Postgres_Port?" promptNeeded="false" type="id_String" value="5432"/>
+  <contextParameter comment="" name="Postgres_Schema" prompt="Postgres_Schema?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="Postgres_Database" prompt="Postgres_Database?" promptNeeded="false" type="id_String" value="ienergy"/>
+  <contextParameter comment="" name="Postgres_Server" prompt="Postgres_Server?" promptNeeded="false" type="id_String" value="localhost"/>
+  <contextParameter comment="" name="Postgres_Password" prompt="Postgres_Password?" promptNeeded="false" type="id_Password" value="5xmCPlkkjMI="/>
+  <contextParameter comment="" name="Postgres_Login" prompt="Postgres_Login?" promptNeeded="false" type="id_String" value="ienergy"/>
+</talendfile:ContextType>
