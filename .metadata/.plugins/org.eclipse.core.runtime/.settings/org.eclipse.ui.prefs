@@ -1,0 +1,4 @@
+#Tue Apr 09 12:17:33 CEST 2013
+Connections.new=[{"complete"\:true,"description"\:"Default connection","dynamicFields"\:{},"id"\:"local","name"\:"Local","password"\:"","user"\:"test@talend.com","workSpace"\:"/home/claudio/jeerp/workspacebi"}]
+workspaceTasksDone=org.talend.designer.core.ui.preferences.migration.AddQuotesForStatLogsPreference|org.talend.repository.model.migration.ChangeProjectTechinicalName|org.talend.core.InitConnectionsMigrationTask|org.talend.migrationTool.InitWorkspaceMigrationTask
+eclipse.preferences.version=1
